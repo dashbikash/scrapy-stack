@@ -1,1 +1,1 @@
-# scrapy-stack
+# Scrapy Stack Implementation
