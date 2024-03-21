@@ -1,2 +1,5 @@
 scrapy
 scrapyd
+pymongo
+scrapydweb
+logparser
